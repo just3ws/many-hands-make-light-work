@@ -1,0 +1,19 @@
+1
+00:00:01,60 --> 00:00:04,90
+>>> MIKE: This is an example of the SubRip text file format that works with YouTube closed captions.
+
+2
+00:00:05,10 --> 00:00:07,00
+>>> PENELOPE: The time format is HH:MM:SS,MS. The structure is the time to show until the time to hide.
+
+3
+00:00:08,00 --> 00:00:10,00
+>>> CONRAD: For example, start the previous caption at 1 minute 60 milliseconds and display caption until 4 minutes and 90 milliseconds.
+
+4
+00:00:11,00 --> 00:00:13,00
+[awkward pause]
+
+5
+00:00:14,00 --> 00:00:18,00
+>>> GABRIELA: And this is even more text. Thanks for watching.

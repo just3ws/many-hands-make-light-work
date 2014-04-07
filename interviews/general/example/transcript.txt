@@ -1,0 +1,13 @@
+- Interviewer: Mike
+- Guest 1: Jane
+- Guest 2: Chris
+
+Mike: This is something that Mike said.
+
+Jane: This is something that Jane said.
+
+Mike: Then followed up with this witty retort.
+
+Jane: Said this astute observation.
+
+Chris: Reiterated the main point of the conversation.
